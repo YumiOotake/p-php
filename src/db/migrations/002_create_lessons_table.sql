@@ -1,0 +1,5 @@
+CREATE TABLE lessons (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  title VARCHAR(100) NOT NULL,
+  hour int NOT NULL
+);
