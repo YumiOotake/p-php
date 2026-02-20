@@ -1,0 +1,5 @@
+# MySQLの実データは管理しない
+/docker/mysql/data/
+
+# Mac使ってたら（いらなければ消してOK）
+.DS_Store
