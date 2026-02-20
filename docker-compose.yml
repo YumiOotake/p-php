@@ -18,7 +18,7 @@ services:
     image: mysql:8.0
     environment:
       MYSQL_ROOT_PASSWORD: password
-      MYSQL_DATABASE: first_db
+      MYSQL_DATABASE: first_db #データベース名先に決めておく
       MYSQL_USER: first_user
       MYSQL_PASSWORD: first_pass
     command:
