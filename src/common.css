@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(165, 165, 255);
+    margin-bottom: 24px;
+}
+.header__logo {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+.header__ttl {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 0;
+}
